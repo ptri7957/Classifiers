@@ -169,9 +169,7 @@ public class MyProgram {
 						System.out.println("no");
 					}
 				}
-
 			}
-		
 		}
 	}
 }
