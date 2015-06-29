@@ -71,7 +71,7 @@ public class KNearestNeighbours {
 	 * test instance. Uses the euclideanDistance()
 	 * function to calculate the distance between the 
 	 * test instance and the data set and sorts the 
-	 * distances from shortest to longest.
+	 * distances from shortest to longest
 	 * 
 	 * @param dataset
 	 * @param instance
