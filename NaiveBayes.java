@@ -231,7 +231,7 @@ public class NaiveBayes {
 	/**
 	 * Calculate the probability of the test instance
 	 * belonging to one of the classes using the
-	 * Gaussian Probability density function
+	 * Gaussian Probability density function.
 	 * 
 	 * @param instance
 	 * @return
