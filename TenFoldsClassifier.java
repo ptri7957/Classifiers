@@ -249,7 +249,7 @@ public class TenFoldsClassifier {
 					+ (avgAccuracy / t.getNumFolds()));
 		}
 
-		// If nearest neighbours is requested
+		// If nearest neighbours is requested, run it
 		if (args[1].contains("NN")) {
 			
 			double correct = 0;
