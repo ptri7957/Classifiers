@@ -33,7 +33,7 @@ public class KNearestNeighbours {
 	 * of the test input. The indexes will be sorted
 	 * according to the sorted distances, although
 	 * the indexes do not correspond to the position
-	 * of the attributes after the sort.
+	 * of the attributes after the sort
 	 * 
 	 * @return index
 	 */
